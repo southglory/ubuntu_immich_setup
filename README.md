@@ -73,6 +73,13 @@ This project provides a one-click setup experience for [immich-app/immich](https
 
 ---
 
+> ⚠️ **Important Security Note:**  
+> This server **must be connected behind a router**.  
+> Do **not** port-forward port `2283` under any circumstances.  
+> Use a VPN (e.g., WireGuard) or Cloudflare Tunnel for remote access instead.
+
+---
+
 ## 🙌 Contributions
 
 Feel free to open an issue or pull request if you'd like to improve or extend this setup.
