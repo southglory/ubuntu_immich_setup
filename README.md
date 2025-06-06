@@ -80,7 +80,7 @@ This project provides a one-click setup experience for [immich-app/immich](https
 
 ---
 
-🚧 Planned Features
+## 🚧 Planned Features
 
 [ ] restore_immich.sh: Restore photos and DB from backup.
 
@@ -92,5 +92,4 @@ This project provides a one-click setup experience for [immich-app/immich](https
 
 Feel free to open an issue or pull request if you'd like to improve or extend this setup.
 
-```
 
